@@ -1,2 +1,4 @@
 zaka :30
 zaki :50
+dana :60
+dono :50
